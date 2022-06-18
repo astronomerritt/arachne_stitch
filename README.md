@@ -6,6 +6,7 @@ I created this project so I could get better at OOP and, eventually, packaging.
 
 ## to-do
 * create output class and functionality
+* demo notebook
 * implement algorithms to improve patterns: smoothing, colour-clustering
 * find a way to speed up floss map generation, nested for-loops are evil
 * grey-scale and monocolour modes
