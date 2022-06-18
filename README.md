@@ -12,6 +12,6 @@ I created this project so I could get better at OOP and, eventually, packaging.
 * can I have the user specify desired number of colours?
 
 ## the name
-Arachne was a weaver from ancient Greek mythology who challenged the goddess Athena to a weaving contest. Perhaps surpisingly, she won handily, but since she'd chosen to depict images of the gods' infidelities and misdemeanours in her flawless and beautiful tapestry, Athena clobbered her with the shuttle and turned her into a spider. Greek gods love an ironic punishment.
+Arachne was a weaver from ancient Greek mythology with a shocking lack of instinct for self-preservation who challenged the goddess Athena to a weaving contest. Best tapestry wins! Perhaps surprisingly, Arachne won handily, but since she'd chosen to depict images of the gods' infidelities and misdemeanours in her tapestry, Athena clobbered her with the shuttle and turned her into a spider. Greek gods love an ironic punishment.
 
 I doubt any cross-stitch patterns made here will draw down the wrath of the gods, but you never know.
